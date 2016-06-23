@@ -2,6 +2,7 @@ body {
   color: #222222;
   font-size: 1em;
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 0px;
 }
 
 .masthead {
@@ -33,10 +34,9 @@ body {
 }
 
 .section-spacing {
-  max-width: 38em;
-  margin-left: auto;
-  margin-right: auto;
   margin-top: 2em;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .content-footer > p {
@@ -69,6 +69,7 @@ body {
   font-family: "Gentium Book Basic", Georgia, serif;
   font-size: 1.2em;
   font-weight: bold;
+
 }
 
 section > h1 {
